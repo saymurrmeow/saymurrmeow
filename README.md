@@ -18,6 +18,7 @@
 <img align="left" alt="JS" width="26px" src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/09/javascript.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />
 
+<br />
 
 ### Tools:
 
