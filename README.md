@@ -18,7 +18,7 @@
 [<img align="left" alt="html" width="30px" src="https://image.flaticon.com/icons/svg/732/732212.svg" />][html]
 [<img align="left" alt="css" width="30px" src="https://image.flaticon.com/icons/svg/732/732190.svg" />][css]
 [<img align="left" alt="sass" width="30px" src="https://image.flaticon.com/icons/svg/919/919831.svg" />][sass]
-[<img align="left" alt="js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" /][js]
+[<img align="left" alt="js" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-23-1174949.png" /][js]
 [<img align="left" alt="TS" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />][ts]
 [<img align="left" alt="react" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/react-4-1175110.png" />][react]
 [<img align="left" alt="redux" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" />][redux]
@@ -28,8 +28,10 @@
 
 ### Tools:
 
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][<img align="left" alt="git" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/git_icon.svg/1024px-git_icon.svg.png" />]
-[<img align="left" alt="webpack" width="30px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />][<img align="left" alt="npm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/npm-logo.svg/540px-npm-logo.svg.png" />]
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="git" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/git_icon.svg/1024px-git_icon.svg.png" />][git]
+[<img align="left" alt="webpack" width="30px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />][webpack]
+[<img align="left" alt="npm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/npm-logo.svg/540px-npm-logo.svg.png" />][npm]
 
 <br />
 <br />
