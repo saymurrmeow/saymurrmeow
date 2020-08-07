@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png" />][instagram]
+[<img align="left" alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />][instagram]
 [<img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" />][telegram]
 
 
