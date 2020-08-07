@@ -31,7 +31,7 @@
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="git" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][git]
 [<img align="left" alt="webpack" width="30px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />][webpack]
-[<img align="left" alt="npm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/npm-logo.svg/540px-npm-logo.svg.png" />][npm]
+[<img align="left" alt="npm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" />][npm]
 
 <br />
 <br />
