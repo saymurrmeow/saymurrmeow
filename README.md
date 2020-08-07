@@ -18,7 +18,7 @@
 
 ### Languages:
 <img align="left" alt="html" width="30px" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />
-<img align="left" alt="css" width="27px" src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png" />
+<img align="left" alt="css" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png" />
 <img align="left" alt="sass" width="30px" src="https://www.pngkey.com/png/full/377-3771917_scss-logo.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />
 <img align="left" alt="JS" width="26px" src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/09/javascript.png" />
