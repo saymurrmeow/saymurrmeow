@@ -17,7 +17,7 @@
 ### Languages:
 <img align="left" alt="html" width="26px" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />
 <img align="left" alt="css" width="26px" src="https://lh3.googleusercontent.com/proxy/VirXgKOMNbMRWhMJe6H1s-Rta8i5O9L6jl9lXSowjQLt96xkD4qGmbba1u2E4oe4ew2Mw1TGhXCyKbkqYWBUIz22IXBcEois2MqJFlVlq3Rh" />
-<img align="left" alt="sass" width="26px" src="https://icon2.cleanpng.com/20180815/ta/kisspng-sass-logo-cascading-style-sheets-scalable-vector-g-codzero-cms-blog-tool-publishing-platform-5b74aaa0a0f4b2.3928971215343725126593.jpg" />
+<img align="left" alt="sass" width="26px" src="https://banner2.cleanpng.com/20180815/xbk/kisspng-sass-logo-cascading-style-sheets-scalable-vector-g-codzero-cms-blog-tool-publishing-platform-5b74aaa0de6192.1715579115343725129109.jpg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />
 <img align="left" alt="JS" width="26px" src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/09/javascript.png" />
 
