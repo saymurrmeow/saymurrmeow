@@ -20,7 +20,7 @@
 <img align="left" alt="html" width="30px" src="https://image.flaticon.com/icons/svg/732/732212.svg" />
 <img align="left" alt="css" width="30px" src="https://image.flaticon.com/icons/svg/732/732190.svg" />
 <img align="left" alt="sass" width="30px" src="https://image.flaticon.com/icons/svg/919/919831.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />
+<img align="left" alt="js" width="30px" src="https://image.flaticon.com/icons/svg/541/541509.svg" />
 <img align="left" alt="JS" width="26px" src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/09/javascript.png" />
 
 
