@@ -22,7 +22,7 @@
 <img align="left" alt="sass" width="30px" src="https://image.flaticon.com/icons/svg/919/919831.svg" />
 <img align="left" alt="js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="TS" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
-<img align="left" alt="react" width="26px" src="https://www.techtranz.com/wp-content/uploads/2018/05/1000px-React-icon.svg.png" />
+<img align="left" alt="react" width="30px" src="https://www.techtranz.com/wp-content/uploads/2018/05/1000px-React-icon.svg.png" />
 <img align="left" alt="redux" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" />
 <img align="left" alt="mobx" width="26px" src="https://cdn.worldvectorlogo.com/logos/mobx.svg" />
 
