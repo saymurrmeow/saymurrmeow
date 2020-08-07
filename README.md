@@ -6,9 +6,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />][instagram]
 [<img align="left" alt="telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" />][telegram]
 [<img align="left" alt="vk" width="30px" src="https://cdn.icon-icons.com/icons2/1121/PNG/512/1486147202-social-media-circled-network10_79475.png" />][vk]
+[<img align="left" alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />][instagram]
 [<img align="center" alt="gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][mail]
 
 <br />
