@@ -3,17 +3,8 @@
 - 🔭 I’m currently working on <https://uplati.ru/> (our new website is in progress)
 - 🌱 I’m currently learning React and Svelte
 - ⚡ Fun fact: I love chess, reading and learning something new
-
-### Connect with me:
-
-[<img align="left" alt="telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" />][telegram]
-[<img align="left" alt="vk" width="30px" src="https://cdn.icon-icons.com/icons2/1121/PNG/512/1486147202-social-media-circled-network10_79475.png" />][vk]
-[<img align="left" alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />][instagram]
-[<img align="center" alt="gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][mail]
-
-<br />
-
-### Languages:
+### My own skils
+#### Languages:
 
 [<img align="left" alt="html" width="30px" src="https://image.flaticon.com/icons/svg/732/732212.svg" />][html]
 [<img align="left" alt="css" width="30px" src="https://image.flaticon.com/icons/svg/732/732190.svg" />][css]
@@ -26,7 +17,7 @@
 
 <br />
 
-### Tools:
+#### Tools:
 
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="git" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][git]
@@ -34,6 +25,15 @@
 [<img align="left" alt="npm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" />][npm]
 
 <br />
+<br />
+
+### Connect with me:
+
+[<img align="left" alt="telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" />][telegram]
+[<img align="left" alt="vk" width="30px" src="https://cdn.icon-icons.com/icons2/1121/PNG/512/1486147202-social-media-circled-network10_79475.png" />][vk]
+[<img align="left" alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />][instagram]
+[<img align="center" alt="gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][mail]
+
 <br />
 
 ---
