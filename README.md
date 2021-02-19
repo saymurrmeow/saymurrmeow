@@ -1,6 +1,6 @@
 ### Hi there, I'm Ruslan - Front-end developer from Siberia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on <https://lk.uplati.ru/> (our new website is in progress)
+- 🔭 I’m currently working on <https://lk.uplati.ru/>
 - 🌱 I’m currently learning React and Svelte
 - ⚡ In fact: I love chess, reading and learning something new
 ### My own skils
