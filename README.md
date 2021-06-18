@@ -41,7 +41,7 @@
 [instagram]: https://www.instagram.com/saymurrmeow/
 [telegram]: https://t.me/savinovsky_r
 [vk]: https://www.vk.com/mister_misty_eye/
-[mail]: savinovsky.r@gmail.com
+[mail]: mailto:savinovsky.r@gmail.com
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [sass]: https://sass-lang.com/documentation
