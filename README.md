@@ -3,13 +3,6 @@
 🔭 I’m currently working at MOEX
 
 ### My own skills
-
-<style>
-    .icon {
-        margin: 0 2px;
-    }
-</style>
-
 [<img class="icon" align="left" alt="js" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-23-1174949.png" />][js]
 [<img class="icon" align="left" alt="TS" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />][ts]
 <img class="icon" align="left" alt="TS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />
