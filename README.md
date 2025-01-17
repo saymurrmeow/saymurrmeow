@@ -1,4 +1,4 @@
-### Hi there, I'm Ruslan - Software engeneer from Siberia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm Ruslan - Software engineer from Siberia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 🔭 I’m currently working at Ventra Go!
 
